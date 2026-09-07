@@ -1,0 +1,24 @@
+# Nirmal Ayurveda
+
+> Online Ayurveda medicine store and crawlable retail catalog for classical Ayurvedic products from India.
+
+- Primary URL: https://mtd006.github.io/nirmalayurveda/
+- Coverage: Ayurveda products for customers in the USA and Europe
+- Content type: single-page storefront with a visible SEO product directory
+
+## Summary
+Nirmal Ayurveda provides an online catalog of classical Ayurvedic products together with retail information, customer support, privacy and terms content, and a mobile app section. The homepage includes a visible product directory built from the attached spreadsheet so answer engines can identify individual Ayurvedic product names directly.
+
+## Key search topics
+ayurveda medicine usa, ayurvedic products europe, classical ayurvedic formulations, ayush licensed ayurveda products, ayurveda bhasma, ayurveda rasa, ayurveda guggul, ayurveda tablets, indian ayurveda products online
+
+## Important notes
+- Informational retail content only
+- Review label, ingredients, cautions, and destination requirements before purchase or use
+- Professional medical guidance remains important for suitability and safety
+
+## Main sections
+- Homepage: https://mtd006.github.io/nirmalayurveda/
+- Ayurveda directory: https://mtd006.github.io/nirmalayurveda/#ayurveda-directory
+- Compliance and retail information: https://mtd006.github.io/nirmalayurveda/#compliance
+- Contact: https://mtd006.github.io/nirmalayurveda/#contact-us
